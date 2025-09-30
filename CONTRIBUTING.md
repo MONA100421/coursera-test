@@ -1,0 +1,1 @@
+A CONTRIBUTING.md file is included to guide contributors on how to participate in the project.

@@ -1,0 +1,1 @@
+The repository includes a CODE_OF_CONDUCT.md file following standard guidelines.
